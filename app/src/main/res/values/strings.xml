@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Praktik App</string>
+    <string name="make_your_profile">Make Your Profile</string>
+    <string name="todo">TODO</string>
+    <string name="long_text">You can use this for make your profile and you can click continue to make the profile</string>
+    <string name="todo_2">TODO</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="textview">TextView</string>
+    <string name="todo_3">TODO</string>
+    <string name="textview_1">TextView</string>
+    <string name="baturaden_purwokerto">Baturaden,Purwokerto</string>
+    <string name="_2009_11_july">2009,11,july</string>
+    <string name="back">Back</string>
+</resources>
